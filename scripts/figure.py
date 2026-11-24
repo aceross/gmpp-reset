@@ -35,7 +35,7 @@ def main(src, out):
         rows.append((source, rating or "Exempt or planning stage", int(g["retained"].sum()), len(g)))
 
     fig, ax = figure(aspect=0.66)
-    fig.subplots_adjust(left=0.30, right=0.97, top=0.76, bottom=0.14)
+    fig.subplots_adjust(left=0.30, right=0.97, top=0.755, bottom=0.145)
     y, ticks, labels = 0, [], []
     group_y = {}
     for source, label, kept, n in rows:
@@ -80,7 +80,7 @@ def main(src, out):
         "189 projects; matched on GMPP ID (plus one missing-ID project by name).",
     )
     fig.texts[0].set_fontsize(BASE_PT * 1.38)
-    fig.text(0.035, 0.088, "Bar length is the number of projects in each group.",
+    fig.text(0.035, 0.094, "Bar length is the number of projects in each group.",
              ha="left", va="bottom", fontsize=BASE_PT * 0.8, color=PAL["muted"])
     save(fig, out)
 
