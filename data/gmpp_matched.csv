@@ -1,0 +1,190 @@
+id,Project Name,Department,category,nista_dca,sro_dca,rating,rating_source,wlc_m,any_exempt,retained
+CO_0176_2223-Q3,Falcon Programme,CO,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,23.11,False,False
+CO_0438_2425-Q3,Manchester Digital Campus,CO,Infrastructure and Construction,Amber,Not given,Amber,NISTA,1029.78,True,True
+CO_0027_2021-Q4,Future Service Programme,CO,Information and Communications Technology (ICT),Exempt,Exempt,Exempt,No rating published,,True,False
+CO_0120_2223-Q1,Transforming Public Procurement,CO,Government Transformation and Service Delivery,Not given,Green,Green,SRO only,32.47,False,False
+DBT_0293_2324-Q3,POST OFFICE - TRANSFORMATION,DBT,Information and Communications Technology (ICT),Amber,Not given,Amber,NISTA,1553.73,False,True
+DBT_0295_2526-Q2,Drive 35,DBT,Infrastructure and Construction,Not given,Green,Green,SRO only,1841.78,False,True
+BEIS_0090_2122-Q4,AUTOMOTIVE TRANSFORMATION FUND (ATF),DBT,Infrastructure and Construction,Not given,Green,Green,SRO only,702.72,False,False
+DBT_0296_2526-Q2,Strategic Sites Accelerator (SSA),DBT,Infrastructure and Construction,Amber,Not given,Amber,NISTA,,False,False
+DCMS_0254_2324-Q1,British Museum - Energy Centre Programme (ECP),DCMS,Infrastructure and Construction,Not given,Green,Green,SRO only,181.97,False,False
+DCMS_0118_2223-Q1,Youth Investment Fund,DCMS,Infrastructure and Construction,Not given,Amber,Amber,SRO only,360.15,False,False
+DCMS_0018_2021-Q3,Natural History Museum Unlocked,DCMS,Infrastructure and Construction,Not given,Amber,Amber,SRO only,213.15,False,False
+DCMS_0321_2324-Q3,EURO 2028,DCMS,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,511.63,True,True
+DCMS_0013_1819-Q3,4th National Lottery Licence,DCMS,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,174.46,False,False
+DEFRA_0015_2122-Q1,NORTHERN IRELAND,DEFRA,Government Transformation and Service Delivery,Not given,Green,Green,SRO only,430.55,True,False
+DEFRA_0587_2526-Q3,EU Delivery Programme,DEFRA,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,832.04,False,True
+DEFRA_0348_2324-Q4,Livestock Information Transformation Programme,DEFRA,Government Transformation and Service Delivery,Red,Not given,Red,NISTA,525.5,False,False
+DEFRA_0008_2021-Q1,FARMING AND COUNTRYSIDE PROGRAMME,DEFRA,Government Transformation and Service Delivery,Red,Not given,Red,NISTA,25494.95,False,True
+DEFRA_0007_2021-Q1,National Biosecurity Centre (Weybridge),DEFRA,Infrastructure and Construction,Green,Not given,Green,NISTA,2485.6,False,True
+,Flood and Coastal Risk Management (FCRM) Investment Programme 2026-2029,DEFRA,Infrastructure and Construction,Amber,Not given,Amber,NISTA,3861.52,False,True
+DEFRA_0014_2021-Q4,NO2 PROGRAMME,DEFRA,Infrastructure and Construction,Not given,Amber,Amber,SRO only,843.04,False,False
+DEFRA_0236_2324-Q1,FLOOD AND COASTAL EROSION RISK MANAGEMENT,DEFRA,Infrastructure and Construction,Green,Not given,Green,NISTA,4835.25,False,True
+DEFRA_0040_2122-Q3,"COLLECTIONS, PACKAGING AND REFORMS PROGRAMME",DEFRA,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,5204.73,False,True
+DEFRA_0190_2223-Q3,TERRESTRIAL NATURAL CAPITAL ECOSYSTEM ASSESSMENT,DEFRA,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,325.68,False,False
+DEFRA_0013_2021-Q4,NATURE FOR CLIMATE FUND,DEFRA,Infrastructure and Construction,Amber,Not given,Amber,NISTA,1272.06,False,False
+DEFRA_0349_2324-Q4,Cefas Infrastructure to Support Future Delivery at Sea,DEFRA,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,152.89,False,False
+DESNZ_0375_2425-Q1,Boiler Upgrade Scheme,DESNZ,Infrastructure and Construction,Not given,Amber,Amber,SRO only,3054.03,False,True
+BEIS_0014_2021-Q4,SOCIAL HOUSING DECARBONISATION FUND ,DESNZ,Infrastructure and Construction,Amber,Not given,Amber,NISTA,2256.29,False,True
+BEIS_0008_2021-Q3,SELLAFIELD PRODUCT AND RESIDUE STORE RETREATMENT PLANT PROJECT,DESNZ,Infrastructure and Construction,Not given,Amber,Amber,SRO only,1432.89,False,False
+DESNZ_0542_2526-Q2,Warm Homes Agency,DESNZ,Government Transformation and Service Delivery,Red,Not given,Red,NISTA,276.69,False,True
+DESNZ_0333_2324-Q4,Review of Electricity Market Arrangements (REMA),DESNZ,Government Transformation and Service Delivery,Not given,Green,Green,SRO only,29.18,True,False
+BEIS_0115_2223-Q1,GREEN HEAT NETWORK FUND,DESNZ,Infrastructure and Construction,Not given,Green,Green,SRO only,730.01,False,False
+DESNZ_0457_2425-Q3,HyNet Cluster,DESNZ,Infrastructure and Construction,Exempt,Exempt,Exempt,No rating published,,True,True
+DESNZ_0472_2425-Q4,Great British Energy,DESNZ,Infrastructure and Construction,Amber,Not given,Amber,NISTA,,True,True
+BEIS_0233_2223-Q4,GBE-N SMR Programme,DESNZ,Infrastructure and Construction,Exempt,Exempt,Exempt,No rating published,,True,True
+DECC_0005_1112-Q1,GEOLOGICAL DISPOSAL FACILITY,DESNZ,Infrastructure and Construction,Red,Not given,Red,NISTA,26350.29,False,True
+BEIS_0019_2122-Q1,Sizewell C Project,DESNZ,Infrastructure and Construction,Exempt,Exempt,Exempt,No rating published,,True,True
+DESNZ_0334_2324-Q3,Hydrogen Allocation Round 1 (HAR1),DESNZ,Infrastructure and Construction,Not given,Amber,Amber,SRO only,2461.71,False,False
+DESNZ_0458_2425-Q3,East Coast Cluster (ECC),DESNZ,Infrastructure and Construction,Exempt,Exempt,Exempt,No rating published,,True,True
+BEIS_0013_2021-Q4,PUBLIC SECTOR DECARBONISATION SCHEME,DESNZ,Infrastructure and Construction,Not given,Amber,Amber,SRO only,3759.0,False,False
+BEIS_0241_2324-Q1,BEPPS2,DESNZ,Infrastructure and Construction,Not given,Amber,Amber,SRO only,727.6,False,False
+DESNZ_0397_2425-Q2,Hydrogen Allocation Round 2 (HAR2),DESNZ,Infrastructure and Construction,Red,Not given,Red,NISTA,9427.02,False,True
+BEIS_0153_2223-Q2,Spherical Tokamak for Energy Production,DESNZ,Infrastructure and Construction,Amber,Not given,Amber,NISTA,,True,True
+DESNZ_0471_2425-Q4,Warm Homes: Local Grant,DESNZ,Infrastructure and Construction,Amber,Not given,Amber,NISTA,454.52,False,True
+BEIS_0009_2021-Q3,SIXEP CONTINUITY PLANT,DESNZ,Infrastructure and Construction,Not given,Green,Green,SRO only,1097.5,False,False
+DECC_0010_1112-Q1,Smart Metering Implementation Programme,DESNZ,Infrastructure and Construction,Not given,Amber,Amber,SRO only,20176.55,False,False
+DFE_0010_1819-Q1,T-Levels,DFE,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,2025.0,False,False
+DFT_0498_2526-Q2,Families First Partnership Programme,DFE,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,2922.61,True,True
+DFE_0018_2021-Q3,School Rebuilding Programme,DFE,Infrastructure and Construction,Not given,Amber,Amber,SRO only,,True,True
+DFE_0496_2526-Q1,School-based nurseries,DFE,Infrastructure and Construction,Not given,Amber,Amber,SRO only,369.85,False,False
+DFE_0272_2324-Q2,Early Years Childcare Reform Programme,DFE,Government Transformation and Service Delivery,Green,Not given,Green,NISTA,16207.65,False,False
+DFE_0495_2526-Q1,Free Breakfast Clubs,DFE,Government Transformation and Service Delivery,Exempt,Exempt,Exempt,No rating published,,True,True
+DFE_0015_2021-Q3,FE Capital Transformation,DFE,Infrastructure and Construction,Not given,Amber,Amber,SRO only,2057.2,False,False
+DFE_0109_2223-Q1,Lifelong Learning Entitlement,DFE,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,,True,False
+,Children's Homes Capital Programme,DFE,Infrastructure and Construction,Not given,Amber,Amber,SRO only,610.13,False,False
+DFT_0040_2021-Q1,HS2 PHASE I,DFT,Infrastructure and Construction,Red,Not given,Red,NISTA,,False,True
+DFT_0048_2021-Q3,2ND GENERATION UK SEARCH AND RESCUE AVIATION,DFT,Government Transformation and Service Delivery,Not given,Green,Green,SRO only,2046.47,False,False
+DFT_0046_2021-Q2,EAST WEST RAIL CONNECTION STATE 1,DFT,Infrastructure and Construction,Exempt,Exempt,Exempt,No rating published,,True,True
+DFT_0139_2223-Q1,REDEVELOPMENT EUSTON CONVENTIONAL STATION (RECS),DFT,Infrastructure and Construction,Exempt,Exempt,Exempt,No rating published,,True,True
+DFT_0038_1920-Q4,EAST COAST DIGITAL PROGRAMME,DFT,Infrastructure and Construction,Red,Not given,Red,NISTA,3030.39,False,False
+DFT_0033_1819-Q1,EAST COAST MAINLINE PROGRAMME,DFT,Infrastructure and Construction,Not given,Red,Red,SRO only,1276.49,False,False
+DFT_0022_1415-Q4,LOWER THAMES CROSSING,DFT,Infrastructure and Construction,Amber,Not given,Amber,NISTA,9899.54,False,True
+DFT_0141_2223-Q1,NORTHERN POWERHOUSE RAIL,DFT,Infrastructure and Construction,Amber,Not given,Amber,NISTA,45000.0,False,True
+DFT_0031_1819-Q1,A428 BLACK CAT TO CAXTON GIBBET,DFT,Infrastructure and Construction,Not given,Green,Green,SRO only,,True,False
+DFT_0413_2425-Q2,Rail Reform: Stand-Up of GBR,DFT,Government Transformation and Service Delivery,Red,Not given,Red,NISTA,,True,True
+DFT_0439_2425-Q3,PUBLIC OWNERSHIP TRANSITION PROGRAMME,DFT,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,36.6,False,False
+DFT_0047_2021-Q3,A66 Northern Trans-Pennine,DFT,Infrastructure and Construction,Not given,Amber,Amber,SRO only,,True,True
+DFT_0052_2122-Q1,EAST WEST RAIL CONNECTION STATE 2 AND 3,DFT,Infrastructure and Construction,Not given,Amber,Amber,SRO only,,True,True
+DFT_0044_2021-Q2,A417 AIR BALLOON,DFT,Infrastructure and Construction,Not given,Green,Green,SRO only,542.63,False,False
+DFT_0043_2021-Q2,MIDLANDS RAIL HUB,DFT,Infrastructure and Construction,Not given,Amber,Amber,SRO only,948.37,False,True
+DFT_0037_1920-Q3,TRANSPENNINE ROUTE UPGRADE,DFT,Infrastructure and Construction,Not given,Amber,Amber,SRO only,10658.6,False,True
+DOH_0017_1112-Q1,UK Health Security Campus,DHSC,Infrastructure and Construction,Exempt,Exempt,Exempt,No rating published,,True,True
+DHSC_0071_2122-Q1,FRONTLINE DIGITISATION,DHSC,Information and Communications Technology (ICT),Amber,Not given,Amber,NISTA,2080.52,False,False
+DHSC_0069_2021-Q4,NHS Digital Transformation of Screening,DHSC,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,94.5,False,False
+DHSC_0041_2122-Q3,Future NHS Workforce Solution Transformation Programme,DHSC,Information and Communications Technology (ICT),Not given,Amber,Amber,SRO only,,True,False
+DHSC_0243_2324-Q1,MODERNA STRATEGIC PARTNERSHIP PROGRAMME,DHSC,Government Transformation and Service Delivery,Exempt,Exempt,Exempt,No rating published,,True,False
+DHSC_0066_2021-Q2,NEW HOSPITAL PROGRAMME,DHSC,Infrastructure and Construction,Amber,Not given,Amber,NISTA,47523.91,False,True
+DHSC_0067_2021-Q3,INTEGRATED SINGLE FINANCIAL ENVIRONMENT,DHSC,Information and Communications Technology (ICT),Green,Not given,Green,NISTA,187.99,False,False
+DHSC_0252_2324-Q1,FEDERATED DATA PLATFORM,DHSC,Government Transformation and Service Delivery,Not given,Green,Green,SRO only,1084.31,False,True
+BEIS_0005_1920-Q4,Met Office Supercomputer Programme,DSIT,Information and Communications Technology (ICT),Not given,Amber,Amber,SRO only,1204.33,False,False
+CO_0033_2122-Q1,GOV.UK One Login,DSIT,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,708.86,False,False
+DCMS_0019_2021-Q4,Project Gigabit,DSIT,Infrastructure and Construction,Not given,Amber,Amber,SRO only,5214.96,False,True
+DCMS_0020_2122-Q1,Shared Rural Network,DSIT,Infrastructure and Construction,Not given,Green,Green,SRO only,328.19,False,False
+BEIS_0079_2122-Q4,MATRIX CLUSTER TRANSFORMATION PROGRAMME,DSIT,Government Transformation and Service Delivery,Not given,Red,Red,SRO only,889.81,False,False
+DWP_0028_1819-Q3,Health Transformation Programme,DWP,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,735.46,False,True
+DWP_0013_2122-Q2,Workplace Transformation,DWP,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,3367.17,False,False
+DWP_0217_2223-Q4,SERVICE MODERNISATION PROGRAMME,DWP,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,1150.0,False,True
+DWP_0029_2021-Q4,PENSIONS DASHBOARD PROGRAMME,DWP,Information and Communications Technology (ICT),Amber,Not given,Amber,NISTA,,True,False
+DWP_0304_2324-Q3,Connect to Work,DWP,Government Transformation and Service Delivery,Green,Not given,Green,NISTA,1094.99,False,False
+DFE_0017_2021-Q3,Skills Bootcamps,DWP,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,790.39,False,False
+DWP_0042_2122-Q3,SYNERGY PROGRAMME,DWP,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,1990.99,False,True
+FCO_0216_2223-Q4,"TOKYO NEW BUILD, REMODELLING AND REFURBISHMENT",FCDO,Infrastructure and Construction,Not given,Amber,Amber,SRO only,111.25,False,False
+BIS_0015_1516-Q1,LOCAL LAND CHARGES (LLC) PROGRAMME,HMLR,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,346.22,False,False
+HMRC_0292_2324-Q3,ENTERPRISE TAX MANAGEMENT PLATFORM (ETMP),HMRC,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,480.87,False,True
+HMRC_0543_2526-Q2,Enterprise Customer Relationship Management (eCRM) ,HMRC,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,256.75,False,False
+HMRC_0031_2122-Q3,UNITY PROGRAMME,HMRC,Government Transformation and Service Delivery,Red,Not given,Red,NISTA,245.97,False,False
+HMRC_0164_2223-Q3,HMRC NORTHERN IRELAND DELIVERY PROGRAMME,HMRC,Information and Communications Technology (ICT),Not given,Amber,Amber,SRO only,712.9,False,False
+HMRC_0017_1617-Q2,MAKING TAX DIGITAL,HMRC,Information and Communications Technology (ICT),Amber,Not given,Amber,NISTA,1484.62,False,True
+HMRC_0015_1617-Q1,BUILDING OUR FUTURE LOCATIONS PROGRAMME,HMRC,Government Transformation and Service Delivery,Not given,Green,Green,SRO only,2831.53,False,False
+HMRC_0544_2526-Q2,Contact Centre as a Service (CCaaS),HMRC,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,571.86,False,False
+HMT_0004_2021-Q2,NS&I Transformation,HMT,Government Transformation and Service Delivery,Red,Not given,Red,NISTA,,True,True
+HO_0332_2324-Q4,NATIONAL STRATEGIC AUTOMATIC NUMBER PLATE RECOGNITION PLATFORM (NSAP),HO,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,391.77,True,False
+HO_0150_2223-Q2,MARITIME CAPABILITIES REPLACEMENT PROGRAMME,HO,Government Transformation and Service Delivery,The Gmpp Project Is Still At The Planning Stage (Pre-Soc Or Equivalent) And Is Not Yet In A Position To Provide Cost/Schedule Information,The Gmpp Project Is Still At The Planning Stage (Pre-Soc Or Equivalent) And Is Not Yet In A Position To Provide Cost/Schedule Information,The Gmpp Project Is Still At The Planning Stage (Pre-Soc Or Equivalent) And Is Not Yet In A Position To Provide Cost/Schedule Information,No rating published,,False,False
+HO_0373_2425-Q1,Civil Registration Service Transformation (CReST),HO,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,326.85,False,False
+HO_0183_2223-Q3,ASYLUM TRANSFORMATION PROGRAMME,HO,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,429.95,False,True
+HO_0045_2122-Q1,FRAUD AND CYBER CRIME REPORTING AND ANALYSIS SERVICE,HO,Government Transformation and Service Delivery,Not given,Green,Green,SRO only,169.06,False,False
+HO_0047_2122-Q1,RADIOLOGICAL AND NUCLEAR CHANGE PROGRAMME (RNCP),HO,Government Transformation and Service Delivery,Exempt,Exempt,Exempt,No rating published,,True,False
+HO_0286_2324-Q2,Asylum Support Accommodation Programme,HO,Government Transformation and Service Delivery,Red,Not given,Red,NISTA,,True,True
+HO_0330_2324-Q4,Immigration Removal Centre (IRC) Expansion Programme,HO,Infrastructure and Construction,Not given,Amber,Amber,SRO only,,True,True
+HO_0036_1617-Q2,Law Enforcement Data Service,HO,Information and Communications Technology (ICT),Amber,Not given,Amber,NISTA,1086.68,False,True
+HO_0331_2324-Q4,Police National Database (PND),HO,Information and Communications Technology (ICT),Amber,Not given,Amber,NISTA,282.64,False,False
+HO_0016_1213-Q1,EMERGENCY SERVICES MOBILE COMMUNICATIONS,HO,Information and Communications Technology (ICT),Amber,Not given,Amber,NISTA,18139.58,False,True
+HO_0042_2021-Q3,Cerberus,HO,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,285.1,False,False
+HO_0228_2223-Q4,ANTI-MONEY LAUNDERING AND ASSET RECOVERY (AMLAR),HO,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,368.47,False,False
+HO_0039_1920-Q4,FUTURE BORDER AND IMMIGRATION SYSTEM PROGRAMME (FBIS),HO,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,5140.89,False,True
+HO_0033_1415-Q3,HOME OFFICE BIOMETRICS (HOB) PROGRAMME,HO,Information and Communications Technology (ICT),Amber,Not given,Amber,NISTA,1809.85,False,False
+HO_0149_2223-Q2,ASYLUM ACCOMMODATION PROGRAMME (AAP),HO,Government Transformation and Service Delivery,Red,Not given,Red,NISTA,,True,True
+DLUHC_0135_2223-Q1,Levelling Up Home Building Fund,MHCLG,Infrastructure and Construction,Not given,Green,Green,SRO only,1990.98,False,False
+MHCLG_0001_1920-Q3,GRENFELL SITE AND PROGRAMME,MHCLG,Infrastructure and Construction,Not given,Amber,Amber,SRO only,,True,False
+MHCLG_0004_2021-Q4,HOUSING INFRASTRUCTURE FUND,MHCLG,Infrastructure and Construction,Not given,Amber,Amber,SRO only,4250.15,False,False
+DLUHC_0364_2324-Q4,"Brownfield, Infrastructure & Land (BIL) ",MHCLG,Infrastructure and Construction,Not given,Green,Green,SRO only,1506.89,False,False
+DLUHC_0181_2223-Q3,DIGITAL PLANNING PROGRAMME,MHCLG,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,218.54,False,False
+DLUHC_0250_2324-Q1,Remediation Portfolio,MHCLG,Infrastructure and Construction,Red,Not given,Red,NISTA,9726.6,True,True
+MHCLG_0008_2122-Q1,Freeports,MHCLG,Infrastructure and Construction,Not given,Amber,Amber,SRO only,378.33,False,False
+MHCLG_0005_2021-Q4,UK HOLOCAUST MEMORIAL AND LEARNING CENTRE,MHCLG,Infrastructure and Construction,Not given,Red,Red,SRO only,141.87,True,False
+DLUHC_0138_2223-Q1,Affordable Homes Programme (AHP),MHCLG,Infrastructure and Construction,Amber,Not given,Amber,NISTA,12230.5,False,False
+MOD_0139_2122-Q1,FUTURE CRUISE ANTI SHIP WEAPON (FCASW),MOD,Military Capability,Not given,Amber,Amber,SRO only,,True,True
+MOD_0110_1718-Q1,MODNET EVOLVE,MOD,Information and Communications Technology (ICT),Green,Not given,Green,NISTA,309.19,False,False
+MOD_0107_1617-Q1,PROTECTOR,MOD,Military Capability,Not given,Red,Red,SRO only,1732.77,False,False
+MOD_0320_2324-Q3,MULTI ROLE STRIKE SHIP,MOD,Military Capability,Not given,Red,Red,SRO only,,True,True
+MOD_0479_2425-Q4,FUTURE AIR DOMINANCE SYSTEM,MOD,Military Capability,Red,Not given,Red,NISTA,,True,True
+MOD_0121_2021-Q4,COLLECTIVE TRAINING TRANSFORMATION PROGRAMME,MOD,Military Capability,Amber,Not given,Amber,NISTA,2083.25,False,True
+MOD_0055_1112-Q1,TYPE 26 GLOBAL COMBAT SHIP PROGRAMME,MOD,Military Capability,Not given,Amber,Amber,SRO only,,True,True
+MOD_0118_1718-Q3,CLYDE INFRASTRUCTURE,MOD,Military Capability,Amber,Not given,Amber,NISTA,3324.98,False,True
+MOD_0076_1213-Q1,ASTUTE BOATS 1-7,MOD,Military Capability,Not given,Amber,Amber,SRO only,14428.06,True,False
+MOD_0100_1516-Q1,SKYNET 6 (AKA FBLOS),MOD,Information and Communications Technology (ICT),Red,Not given,Red,NISTA,,True,True
+MOD_0080_1213-Q1,DREADNOUGHT,MOD,Military Capability,Exempt,Exempt,Exempt,No rating published,,True,True
+MOD_0141_2122-Q1,BRIMSTONE 3,MOD,Military Capability,Not given,Amber,Amber,SRO only,,True,False
+MOD_0134_2122-Q1,TEUTATES,MOD,Military Capability,Exempt,Exempt,Exempt,No rating published,,True,False
+MOD_0011_2122-Q2,SUBMARINE WATERFRONT INFRASTRUCTURE FUTURE,MOD,Infrastructure and Construction,Red,Not given,Red,NISTA,2230.52,False,True
+MOD_0047_1112-Q1,SPEARFISH UPGRADE PROGRAMME,MOD,Military Capability,Exempt,Exempt,Exempt,No rating published,,True,False
+MOD_0132_2122-Q1,MENSA,MOD,Military Capability,Amber,Not given,Amber,NISTA,3555.91,True,False
+MOD_0119_1920-Q2,ARMED FORCES RECRUITING PROGRAMME,MOD,Military Capability,Not given,Amber,Amber,SRO only,201.02,False,False
+MOD_0104_1617-Q1,ARMOUR MBT 2025,MOD,Military Capability,Red,Not given,Red,NISTA,1979.22,False,True
+MOD_0126_2021-Q4,NEXT GENERATION (FIXED) COMMUNICATION NETWORK,MOD,Information and Communications Technology (ICT),Red,Not given,Red,NISTA,,True,False
+MOD_0247_2324-Q1,Future Materials Campus,MOD,Military Capability,Exempt,Exempt,Exempt,No rating published,,True,True
+MOD_0105_1617-Q1,LAND ENVIRONMENT TACTICAL COMMUNICATION AND INFORMATION SYSTEMS,MOD,Military Capability,Amber,Not given,Amber,NISTA,7734.29,False,True
+MOD_0114_1718-Q1,DEFENCE ESTATE OPTIMISATION,MOD,Military Capability,Not given,Amber,Amber,SRO only,5949.19,False,False
+MOD_0033_1112-Q1,MARSHALL,MOD,Military Capability,Not given,Red,Red,SRO only,1997.56,False,False
+MOD_0140_2122-Q1,SPEARCAP 3,MOD,Military Capability,Not given,Red,Red,SRO only,,True,False
+MOD_0007_2122-Q2,SUBMERSIBLE SHIP NUCLEAR AUKUS,MOD,Military Capability,Amber,Not given,Amber,NISTA,,True,True
+MOD_0078_1213-Q1,CORE PRODUCTION CAPABILITY,MOD,Military Capability,Amber,Not given,Amber,NISTA,7784.34,False,True
+MOD_0109_1617-Q2,NEW STYLE OF INFORMATION TECHNOLOGY DEPLOYED,MOD,Information and Communications Technology (ICT),Red,Not given,Red,NISTA,1598.79,False,False
+MOD_0527_2526-Q1,Mobile Fires Platform,MOD,Military Capability,Amber,Not given,Amber,NISTA,,True,False
+MOD_0116_1718-Q2,FLEET SOLID SUPPORT,MOD,Military Capability,Not given,Amber,Amber,SRO only,,True,False
+MOD_0091_1415-Q3,ARMOURED CAVALRY 2025,MOD,Military Capability,Red,Not given,Red,NISTA,8935.68,False,True
+MOD_0137_2122-Q1,EUROPEAN COMMON RADAR SYSTEM MK 2,MOD,Military Capability,Not given,Amber,Amber,SRO only,2899.01,False,False
+MOD_0120_2021-Q2,E7 WEDGETAIL,MOD,Military Capability,Not given,Red,Red,SRO only,2128.05,False,False
+MOD_0056_2122-Q3,"LAND INTELLIGENCE, SURVEILLANCE, TARGET ACQUISITION AND RECONNAISSANCE (ISTAR)",MOD,Military Capability,Amber,Not given,Amber,NISTA,1498.14,False,True
+MOD_0009_2122-Q2,CHINOOK CAPABILITY SUSTAINMENT PROGRAMME (CSP),MOD,Military Capability,Not given,Amber,Amber,SRO only,1959.31,False,False
+MOD_0079_1213-Q1,LIGHTNING PROGRAMME,MOD,Military Capability,Not given,Green,Green,SRO only,,True,False
+MOD_0124_2021-Q4,MINE HUNTING CAPABILITY,MOD,Military Capability,Not given,Red,Red,SRO only,,True,False
+MOD_0122_2021-Q4,FUTURE COMBAT AIR SYSTEM,MOD,Military Capability,Red,Not given,Red,NISTA,,True,True
+MOD_0112_1718-Q1,TYPE 31,MOD,Military Capability,Red,Not given,Red,NISTA,,True,True
+MOD_0144_2122-Q1,GROUND BASED AIR DEFENCE (GBAD),MOD,Military Capability,Amber,Not given,Amber,NISTA,1454.95,False,True
+MOD_0111_1718-Q1,JOINT CRYPT KEY PROGRAMME,MOD,Information and Communications Technology (ICT),Exempt,Exempt,Exempt,No rating published,,True,False
+MOD_0136_2122-Q1,NAVAL SUPPORT INTEGRATED GLOBAL NETWORK (NSIGN),MOD,Military Capability,Not given,Amber,Amber,SRO only,14352.16,False,False
+MOD_0125_2021-Q4,NEW MEDIUM HELICOPTER,MOD,Military Capability,Not given,Amber,Amber,SRO only,1404.92,False,False
+MOD_0135_2122-Q1,SUBMARINE DISMANTLING PROJECT,MOD,Military Capability,Not given,Red,Red,SRO only,541.73,False,False
+MOD_0115_1718-Q2,MECHANISED INFANTRY PROGRAMME,MOD,Military Capability,Amber,Not given,Amber,NISTA,5033.66,False,True
+MOJ_0144_2223-Q2,Small Secure Houseblocks ,MOJ,Infrastructure and Construction,Amber,Not given,Amber,NISTA,,True,True
+MOJ_0113_2122-Q2,10K Additional Prison Places Estate Expansion Houseblocks and Refurbishments,MOJ,Infrastructure and Construction,Red,Not given,Red,NISTA,,True,True
+MOJ_0058_2122-Q1,Electronic Monitoring Expansion,MOJ,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,1161.1,False,False
+MOJ_0050_2122-Q3,Evolve: WAN/LAN (Networks),MOJ,Information and Communications Technology (ICT),Not given,Green,Green,SRO only,253.89,False,False
+MOJ_0537_2526-Q1,Community Support Programme,MOJ,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,1024.83,False,False
+MOJ_0061_2122-Q3,Decommission and Legacy Risk Migration (DLRM),MOJ,Information and Communications Technology (ICT),Not given,Amber,Amber,SRO only,273.28,False,False
+MOJ_0062_2122-Q3,Evolve: End User Computer Service (EUCS),MOJ,Information and Communications Technology (ICT),Not given,Green,Green,SRO only,190.18,False,False
+MOJ_0064_2122-Q3,Prisoner Education Services,MOJ,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,1755.13,False,False
+MOJ_0057_2122-Q1,Rapid Deployment Cells Project,MOJ,Infrastructure and Construction,Amber,Not given,Amber,NISTA,,True,True
+MOJ_0220_2223-Q4,Property Transformation Programme,MOJ,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,,True,False
+MOJ_0049_2122-Q3,Evolve: Voice & Video,MOJ,Information and Communications Technology (ICT),Not given,Green,Green,SRO only,184.56,False,False
+MOJ_0050_2021-Q1,10k Additional Prison Places - New Build,MOJ,Infrastructure and Construction,Amber,Not given,Amber,NISTA,,True,True
+MOJ_0060_2122-Q3,PFI Prison Expiry and Transfer Tranche 2,MOJ,Government Transformation and Service Delivery,Not given,Green,Green,SRO only,2730.04,False,False
+MOJ_0259_2324-Q1,Secure Children's Homes Commissioning,MOJ,Government Transformation and Service Delivery,Not given,Green,Green,SRO only,270.91,False,False
+MOJ_0111_2122-Q2,10K Additional Prison Places Estate Expansion Category D,MOJ,Infrastructure and Construction,Red,Not given,Red,NISTA,,True,True
+MOJ_0539_2526-Q2,Residential Property Tribunal,MOJ,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,149.6,False,False
+MOJ_0053_2021-Q4,Accelerated Houseblocks,MOJ,Infrastructure and Construction,Amber,Not given,Amber,NISTA,,True,True
+MOJ_0365_2425-Q1,PFI Prison Expiry and Transfer Tranche 3,MOJ,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,3335.69,False,False
+HO_0526_2526-Q1,Concordis,NCA,Government Transformation and Service Delivery,Not given,Amber,Amber,SRO only,189.75,False,False
+HMRC_0143_2223-Q2,VOA NextGen Rating Programme,VOA,Government Transformation and Service Delivery,Amber,Not given,Amber,NISTA,300.38,False,False

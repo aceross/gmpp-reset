@@ -1,0 +1,201 @@
+Matched by name (no ID in 2025-26 data): ['Flood and Coastal Risk Management (FCRM) Investment Programme 2026-2029']
+2025-26 projects: 189; April 2026 projects: 81
+Retained from 2025-26: 79; new in April list: 2
+           GMPP ID            GMPP Project Name Department
+  DFT_0600_2526-Q3 Heathrow Expansion Programme        DFT
+DLUHC_0593_2526-Q3  Social And Affordable Homes      MHCLG
+
+== Missing-ID rows in 2025-26 data
+                                                           Project Name Department rating rating_source   wlc_m  retained
+Flood and Coastal Risk Management (FCRM) Investment Programme 2026-2029      DEFRA  Amber         NISTA 3861.52      True
+                                     Children's Homes Capital Programme        DFE  Amber      SRO only  610.13     False
+
+== Retained IDs with materially changed or colliding April project names
+                id                              Project Name                                  april_name
+  DBT_0293_2324-Q3              POST OFFICE - TRANSFORMATION   Post Office Strategic Transformation Plan
+DESNZ_0542_2526-Q2                         Warm Homes Agency                            Project Seahorse
+ BEIS_0019_2122-Q1                        Sizewell C Project            New Nuclear Project (Sizewell C)
+  DFE_0495_2526-Q1                      Free Breakfast Clubs                             Breakfast Clubs
+  DFT_0413_2425-Q2              Rail Reform: Stand-Up of GBR        Rail Sector Transformation Programme
+  DFT_0047_2021-Q3                A66 Northern Trans-Pennine          A66 Northern Trans-Pennine Project
+ HMRC_0292_2324-Q3 ENTERPRISE TAX MANAGEMENT PLATFORM (ETMP) Enterprise Customer Relationship Management
+   HO_0149_2223-Q2      ASYLUM ACCOMMODATION PROGRAMME (AAP)      Accommodation Programme (Non Detained)
+
+== Dropped 2025-26 rows whose normalised name appears in April list under another ID
+  2025-26 HMRC_0543_2526-Q2 (Enterprise Customer Relationship Management (eCRM)) <-> April HMRC_0292_2324-Q3 (Enterprise Customer Relationship Management)
+
+== Dropped projects with scheduled End Date <= 2026-03-31 (7)
+                id                            Project Name Department   End Date rating
+   CO_0120_2223-Q1         Transforming Public Procurement         CO 31/03/2026  Green
+DEFRA_0015_2122-Q1                        NORTHERN IRELAND      DEFRA 11/02/2026  Green
+DEFRA_0014_2021-Q4                           NO2 PROGRAMME      DEFRA 31/03/2026  Amber
+ DHSC_0071_2122-Q1                  FRONTLINE DIGITISATION       DHSC 31/03/2026  Amber
+ DHSC_0067_2021-Q3 INTEGRATED SINGLE FINANCIAL ENVIRONMENT       DHSC 31/03/2026  Green
+  DWP_0304_2324-Q3                         Connect to Work        DWP 31/03/2026  Green
+  MOD_0079_1213-Q1                     LIGHTNING PROGRAMME        MOD 31/03/2026  Green
+
+== rating source x rating x kept
+retained                                                                                                                                                       False  True  All
+rating_source       rating                                                                                                                                                     
+NISTA               Amber                                                                                                                                         18    33   51
+                    Green                                                                                                                                          4     2    6
+                    Red                                                                                                                                            5    19   24
+No rating published Exempt                                                                                                                                         6    10   16
+                    The Gmpp Project Is Still At The Planning Stage (Pre-Soc Or Equivalent) And Is Not Yet In A Position To Provide Cost/Schedule Information      1     0    1
+SRO only            Amber                                                                                                                                         46    12   58
+                    Green                                                                                                                                         21     2   23
+                    Red                                                                                                                                            9     1   10
+All                                                                                                                                                              110    79  189
+
+== nista_dca
+retained                                                                                                                                   dropped  kept  total  kept_pct
+nista_dca                                                                                                                                                                
+Not given                                                                                                                                       76    15     91      16.0
+Amber                                                                                                                                           18    33     51      65.0
+Red                                                                                                                                              5    19     24      79.0
+Exempt                                                                                                                                           6    10     16      62.0
+Green                                                                                                                                            4     2      6      33.0
+The Gmpp Project Is Still At The Planning Stage (Pre-Soc Or Equivalent) And Is Not Yet In A Position To Provide Cost/Schedule Information        1     0      1       0.0
+
+== sro_dca
+retained                                                                                                                                   dropped  kept  total  kept_pct
+sro_dca                                                                                                                                                                  
+Not given                                                                                                                                       27    54     81      67.0
+Amber                                                                                                                                           46    12     58      21.0
+Green                                                                                                                                           21     2     23       9.0
+Exempt                                                                                                                                           6    10     16      62.0
+Red                                                                                                                                              9     1     10      10.0
+The Gmpp Project Is Still At The Planning Stage (Pre-Soc Or Equivalent) And Is Not Yet In A Position To Provide Cost/Schedule Information        1     0      1       0.0
+
+== rating
+retained                                                                                                                                   dropped  kept  total  kept_pct
+rating                                                                                                                                                                   
+Amber                                                                                                                                           64    45    109      41.0
+Red                                                                                                                                             14    20     34      59.0
+Green                                                                                                                                           25     4     29      14.0
+Exempt                                                                                                                                           6    10     16      62.0
+The Gmpp Project Is Still At The Planning Stage (Pre-Soc Or Equivalent) And Is Not Yet In A Position To Provide Cost/Schedule Information        1     0      1       0.0
+
+== rating_source
+retained             dropped  kept  total  kept_pct
+rating_source                                      
+SRO only                  76    15     91      16.0
+NISTA                     27    54     81      67.0
+No rating published        7    10     17      59.0
+
+== category
+retained                                         dropped  kept  total  kept_pct
+category                                                                       
+Infrastructure and Construction                       30    38     68      56.0
+Government Transformation and Service Delivery        43    18     61      30.0
+Military Capability                                   20    18     38      47.0
+Information and Communications Technology (ICT)       17     5     22      23.0
+
+== Department
+retained    dropped  kept  total  kept_pct
+Department                                
+MOD              24    20     44      45.0
+DESNZ             8    12     20      60.0
+MOJ              12     6     18      33.0
+DFT               6    10     16      62.0
+HO                9     7     16      44.0
+DEFRA             6     6     12      50.0
+DFE               6     3      9      33.0
+MHCLG             8     1      9      11.0
+DHSC              5     3      8      38.0
+DWP               4     3      7      43.0
+HMRC              5     2      7      29.0
+DCMS              4     1      5      20.0
+DSIT              4     1      5      20.0
+CO                3     1      4      25.0
+DBT               2     2      4      50.0
+NCA               1     0      1       0.0
+FCDO              1     0      1       0.0
+HMT               0     1      1     100.0
+HMLR              1     0      1       0.0
+VOA               1     0      1       0.0
+
+== any_exempt
+retained    dropped  kept  total  kept_pct
+any_exempt                                
+False            85    41    126      33.0
+True             25    38     63      60.0
+
+== whole-life cost (£m, rows with a number)
+          count    mean      std    min     25%     50%     75%      max
+retained                                                                
+False      89.0  1898.0   3575.0   23.0   271.0   709.0  1991.0  20177.0
+True       44.0  6708.0  10559.0  277.0  1134.0  2371.0  7747.0  47524.0
+Sum of whole-life cost by status (£bn):
+retained
+False    168.9
+True     295.1
+
+== Red-rated projects
+                                                                Project Name Department                                        category    wlc_m  retained
+                                                GEOLOGICAL DISPOSAL FACILITY      DESNZ                 Infrastructure and Construction 26350.29      True
+                                           FARMING AND COUNTRYSIDE PROGRAMME      DEFRA  Government Transformation and Service Delivery 25494.95      True
+                                                       Remediation Portfolio      MHCLG                 Infrastructure and Construction  9726.60      True
+                                          Hydrogen Allocation Round 2 (HAR2)      DESNZ                 Infrastructure and Construction  9427.02      True
+                                                       ARMOURED CAVALRY 2025        MOD                             Military Capability  8935.68      True
+                                                EAST COAST DIGITAL PROGRAMME        DFT                 Infrastructure and Construction  3030.39     False
+                                  SUBMARINE WATERFRONT INFRASTRUCTURE FUTURE        MOD                 Infrastructure and Construction  2230.52      True
+                                                             ARMOUR MBT 2025        MOD                             Military Capability  1979.22      True
+                                NEW STYLE OF INFORMATION TECHNOLOGY DEPLOYED        MOD Information and Communications Technology (ICT)  1598.79     False
+                              Livestock Information Transformation Programme      DEFRA  Government Transformation and Service Delivery   525.50     False
+                                                           Warm Homes Agency      DESNZ  Government Transformation and Service Delivery   276.69      True
+                                                             UNITY PROGRAMME       HMRC  Government Transformation and Service Delivery   245.97     False
+                                                                 HS2 PHASE I        DFT                 Infrastructure and Construction      NaN      True
+                                                Rail Reform: Stand-Up of GBR        DFT  Government Transformation and Service Delivery      NaN      True
+                                                         NS&I Transformation        HMT  Government Transformation and Service Delivery      NaN      True
+                                      Asylum Support Accommodation Programme         HO  Government Transformation and Service Delivery      NaN      True
+                                        ASYLUM ACCOMMODATION PROGRAMME (AAP)         HO  Government Transformation and Service Delivery      NaN      True
+                                                 FUTURE AIR DOMINANCE SYSTEM        MOD                             Military Capability      NaN      True
+                                                        SKYNET 6 (AKA FBLOS)        MOD Information and Communications Technology (ICT)      NaN      True
+                               NEXT GENERATION (FIXED) COMMUNICATION NETWORK        MOD Information and Communications Technology (ICT)      NaN     False
+                                                    FUTURE COMBAT AIR SYSTEM        MOD                             Military Capability      NaN      True
+                                                                     TYPE 31        MOD                             Military Capability      NaN      True
+10K Additional Prison Places Estate Expansion Houseblocks and Refurbishments        MOJ                 Infrastructure and Construction      NaN      True
+                    10K Additional Prison Places Estate Expansion Category D        MOJ                 Infrastructure and Construction      NaN      True
+
+== cost band x kept
+retained            False  True  All
+over_1bn                            
+£1bn or less           51     8   59
+over £1bn              38    36   74
+cost not published     21    35   56
+All                   110    79  189
+
+== red-rated (either source) and dropped
+                                  Project Name Department rating_source   wlc_m
+                  EAST COAST DIGITAL PROGRAMME        DFT         NISTA 3030.39
+                                  E7 WEDGETAIL        MOD      SRO only 2128.05
+                                      MARSHALL        MOD      SRO only 1997.56
+                                     PROTECTOR        MOD      SRO only 1732.77
+  NEW STYLE OF INFORMATION TECHNOLOGY DEPLOYED        MOD         NISTA 1598.79
+                 EAST COAST MAINLINE PROGRAMME        DFT      SRO only 1276.49
+       MATRIX CLUSTER TRANSFORMATION PROGRAMME       DSIT      SRO only  889.81
+                 SUBMARINE DISMANTLING PROJECT        MOD      SRO only  541.73
+Livestock Information Transformation Programme      DEFRA         NISTA  525.50
+                               UNITY PROGRAMME       HMRC         NISTA  245.97
+     UK HOLOCAUST MEMORIAL AND LEARNING CENTRE      MHCLG      SRO only  141.87
+ NEXT GENERATION (FIXED) COMMUNICATION NETWORK        MOD         NISTA     NaN
+                                    SPEARCAP 3        MOD      SRO only     NaN
+                       MINE HUNTING CAPABILITY        MOD      SRO only     NaN
+
+== dropped projects with the largest whole-life cost
+                                   Project Name Department                                       category rating rating_source    wlc_m
+        Smart Metering Implementation Programme      DESNZ                Infrastructure and Construction  Amber      SRO only 20176.55
+         Early Years Childcare Reform Programme        DFE Government Transformation and Service Delivery  Green         NISTA 16207.65
+                               ASTUTE BOATS 1-7        MOD                            Military Capability  Amber      SRO only 14428.06
+NAVAL SUPPORT INTEGRATED GLOBAL NETWORK (NSIGN)        MOD                            Military Capability  Amber      SRO only 14352.16
+               Affordable Homes Programme (AHP)      MHCLG                Infrastructure and Construction  Amber         NISTA 12230.50
+                    DEFENCE ESTATE OPTIMISATION        MOD                            Military Capability  Amber      SRO only  5949.19
+                    HOUSING INFRASTRUCTURE FUND      MHCLG                Infrastructure and Construction  Amber      SRO only  4250.15
+           PUBLIC SECTOR DECARBONISATION SCHEME      DESNZ                Infrastructure and Construction  Amber      SRO only  3759.00
+                                          MENSA        MOD                            Military Capability  Amber         NISTA  3555.91
+                       Workplace Transformation        DWP Government Transformation and Service Delivery  Amber         NISTA  3367.17
+       PFI Prison Expiry and Transfer Tranche 3        MOJ Government Transformation and Service Delivery  Amber      SRO only  3335.69
+                   EAST COAST DIGITAL PROGRAMME        DFT                Infrastructure and Construction    Red         NISTA  3030.39
+
+Whole-life cost not published (dropped / kept): 21 / 35
