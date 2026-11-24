@@ -1,31 +1,31 @@
-"""House style for Of Particular Interest figures (editorial register, Substack column width).
+"""House style for Of Particular Interest figures (editorial serif register, Substack column width).
 
 Import from a post's figure script:
-    sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "figure_style"))
     from plot_setup import PAL, figure, title_block, save
 
-Avenir Next ships with macOS; on other systems matplotlib falls back to another sans.
+Charter ships with macOS; on other systems matplotlib falls back to Georgia or DejaVu Serif.
 """
 import matplotlib as mpl
 
 mpl.use("Agg")
 import matplotlib.pyplot as plt  # noqa: E402
 
-FONT = "Avenir Next"
+FONT = "Charter"
 BASE_PT = 10.5
 WIDTH_IN = 7.0  # saved at 200 dpi -> 1400 px, 2x Substack's column
 
 PAL = dict(
-    accent="#A23B2A",   # the subject of the figure's sentence
+    accent="#A23B2A",   # the subject of the figure's sentence (6.57:1 on white)
     accent2="#2F5D8A",  # second accent, used rarely
-    ink="#262626",
-    muted="#6E6E6E",    # subtitles, source lines
-    context="#BDBDBD",  # everything that is not the subject
-    faint="#E6E6E6",    # gridlines, table rules
+    ink="#262626",      # primary text (15.13:1 on white, WCAG AAA)
+    muted="#595959",    # subtitles, notes, source lines (7.00:1 on white, WCAG AAA)
+    context="#8C8C8C",  # non-subject bars/series (3.36:1 on white, WCAG 1.4.11 AA >= 3:1)
+    faint="#E6E6E6",    # decorative gridlines, table rules
 )
 
 mpl.rcParams.update({
-    "font.family": FONT,
+    "font.family": "serif",
+    "font.serif": [FONT, "Georgia", "DejaVu Serif"],
     "font.size": BASE_PT,
     "text.color": PAL["ink"],
     "axes.labelsize": BASE_PT,
@@ -57,7 +57,7 @@ def figure(aspect=0.62, nrows=1, ncols=1, **kw):
 def title_block(fig, title, subtitle, source, top=0.97, left=0.035, subtitle_gap=None):
     """Assertive title, measurement subtitle and source line, all on one left edge."""
     gap = subtitle_gap if subtitle_gap is not None else (0.282 / fig.get_figheight())
-    fig.text(left, top, title, ha="left", va="top", fontsize=BASE_PT * 1.45, weight="demibold")
+    fig.text(left, top, title, ha="left", va="top", fontsize=BASE_PT * 1.45, weight="bold")
     fig.text(left, top - gap, subtitle, ha="left", va="top", fontsize=BASE_PT * 0.95, color=PAL["muted"])
     fig.text(left, 0.02, source, ha="left", va="bottom", fontsize=BASE_PT * 0.78, color=PAL["muted"])
 

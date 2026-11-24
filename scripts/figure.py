@@ -44,8 +44,11 @@ def main(src, out):
                 y += 0.7
             group_y[source] = y
             y += 0.55
-        ax.barh(y, kept, color=PAL["accent"], height=0.62)
-        ax.barh(y, n - kept, left=kept, color=PAL["faint"], height=0.62)
+        gap_x = 0.18 if (kept > 0 and n - kept > 0) else 0.0
+        if kept > 0:
+            ax.barh(y, kept - gap_x / 2, color=PAL["accent"], height=0.62)
+        if n - kept > 0:
+            ax.barh(y, (n - kept) - gap_x / 2, left=kept + gap_x / 2, color=PAL["context"], height=0.62)
         ax.text(n + 1, y, f"{kept} of {n} kept", va="center", fontsize=BASE_PT * 0.85, color=PAL["ink"])
         ticks.append(y)
         labels.append(label)
@@ -54,7 +57,7 @@ def main(src, out):
     to_fig_left = mt.blended_transform_factory(fig.transFigure, ax.transData)
     for source, gy in group_y.items():
         ax.text(0.035, gy - 0.05, GROUP_LABEL[source], transform=to_fig_left, ha="left",
-                va="center", fontsize=BASE_PT * 0.9, weight="demibold")
+                va="center", fontsize=BASE_PT * 0.9, weight="bold")
     ax.set_yticks(ticks, labels)
     ax.invert_yaxis()
     ax.set_xlim(0, 80)
@@ -65,7 +68,7 @@ def main(src, out):
     key_y = group_y["NISTA"] - 0.05
     ax.barh(key_y, 2.2, left=50, height=0.4, color=PAL["accent"])
     ax.text(53, key_y, "kept", va="center", fontsize=BASE_PT * 0.85)
-    ax.barh(key_y, 2.2, left=60, height=0.4, color=PAL["faint"])
+    ax.barh(key_y, 2.2, left=60, height=0.4, color=PAL["context"])
     ax.text(63, key_y, "dropped", va="center", fontsize=BASE_PT * 0.85)
 
     title_block(

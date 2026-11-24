@@ -9,7 +9,7 @@ Companion code and data for *"The red projects stayed"* ([Of Particular Interest
 
 ## Dependencies
 
-Install packages from `requirements.txt` (`matplotlib>=3.11.2` is required on macOS for proper `Avenir Next` Regular and DemiBold weights). `scripts/figure.py` also imports the house style module in `figure_style/plot_setup.py`.
+Install packages from `requirements.txt` (`matplotlib>=3.11.2` is required on macOS for proper `Charter` Roman and Bold weights). `scripts/figure.py` also imports the house style module in `figure_style/plot_setup.py`.
 
 ## Reproduce
 
