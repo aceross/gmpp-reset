@@ -1,6 +1,6 @@
-# The red projects stayed (updated 24 November 2026)
+# What happened to Whitehall's other 110 projects? (updated 24 November 2026)
 
-Companion code and data for *"The red projects stayed"* ([Of Particular Interest](https://ceross.substack.com)): which 2025-26 Government Major Projects Portfolio projects stayed in the April 2026 portfolio, by rating, rating source, category and cost.
+Companion code and data for *"What happened to Whitehall's other 110 projects?"* ([Of Particular Interest](https://ceross.substack.com)): which 2025-26 Government Major Projects Portfolio projects stayed in the April 2026 portfolio, by rating, rating source, category and cost.
 
 - Draft: `draft_20261031.md` (live GOV.UK/IfG checks updated 24 November 2026) · Figure: `figures/fig1_kept_by_rating.png`
 - Data: `data/gmpp_matched.csv` (189 projects with `retained` flag); console output in `data/analysis_output.txt`
